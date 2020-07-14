@@ -1,0 +1,14 @@
+.AddProduct {
+    width:100px;
+    border: 2px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 20px;
+}
+
+.AddProduct, input, button {
+    width: 1000px ;
+    padding: 16px;
+    height: 20px;
+    margin-top: 12px;
+}
